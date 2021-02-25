@@ -1,29 +1,10 @@
 # README #
 
-This README would normally document whatever steps are necessary to get your application up and running.
 
-### What is this repository for? ###
+### •	This is a website that lets people connect and make roommates, with those who have matching preferences as theirs, once they make a payment as a part of the membership. ###
 
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
+### •	This site makes use of Nodejs and Express for the backend, React for the frontend, and Bootstrap for design. Authentication and state management were implemented using JWT and Redux ###
 
-### How do I get set up? ###
+### •	Linked payment to application using Stripe API, and implemented filter criteria for the search page to simplify searching ###
 
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
 
-### Contribution guidelines ###
-
-* Writing tests
-* Code review
-* Other guidelines
-
-### Who do I talk to? ###
-
-* Repo owner or admin
-* Other community or team contact
